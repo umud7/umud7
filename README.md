@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm umud7</h1>
-<h3 align="center">A passionate Software developer from Azerbaijan</h3>
-
-
-
+<h1 align="center">Umud Gurbanov👋</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umid gurbanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umid gurbanov" height="30" width="40" /></a>
@@ -10,7 +6,6 @@
 <a href="https://instagram.com/umid._100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umid._100" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h1>Skills 🔥</h1>
 <div align='center'>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="CSharp" alt="CSharp"/>&nbsp;
