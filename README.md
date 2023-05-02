@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Software developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU"
 
-- 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **umidhg@code.edu.az**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
