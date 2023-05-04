@@ -22,3 +22,9 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>
  
 </div>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<div align="center">
+<img  src="https://profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
+</div>
