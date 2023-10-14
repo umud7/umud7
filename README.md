@@ -21,9 +21,32 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python"/>
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>
 
  
+</div>
+
+
+<style>
+  .badge {
+    display: inline-block;
+    margin: 5px;
+    transition: transform 0.2s;
+  }
+
+  .badge:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<div align='center'>
+  <a class="badge" href="#" target="blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="CSharp" alt="CSharp"/>
+  </a>
+  <a class="badge" href="#" target="blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title="Net" alt="Net"/>
+  </a>
+  <!-- Add more badges here with the "badge" class -->
 </div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
