@@ -28,11 +28,10 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" style="float: left; margin-right: 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" style="float: left; margin-right: 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" style="float: left; margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" style="float: left; margin-right: 10px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" style="float: left; margin-right: 10px;"/>&nbsp;
 </div>
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
 </div>
