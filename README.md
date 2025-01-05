@@ -1,4 +1,4 @@
-<h1 align="center">Umud Gurbanov👋</h1>
+<h1 align="center">Umid Gurbanov👋</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/umid gurbanov" target="blank">
