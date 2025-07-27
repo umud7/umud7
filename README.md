@@ -1,39 +1,75 @@
-<h1 align="center">Umid Gurbanov👋</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/umid gurbanov" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umid gurbanov" height="30" width="40" style="float: left; margin-right: 10px;"/>
+<h1 align="center">Hi there, I'm Umid Gurbanov 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Software+Developer;Java+%7C+.NET+%7C+Full-Stack+Engineer;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🎓 I'm a software developer specialized in **Java**, **.NET**, and **Web Technologies**  
+- 🌱 Currently exploring **React**, **Node.js**, and **Cloud Services**  
+- 🎯 Goal: To build innovative and impactful software solutions  
+- 📫 How to reach me: `umidgurbanov@gmail.com`
+
+---
+
+### 📲 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/umidgurbanov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Umid%20Gurbanov-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://fb.com/ümid qurbanov" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ümid qurbanov" height="30" width="40" style="float: left; margin-right: 10px;"/>
+  <a href="https://instagram.com/umid._100" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40umid._100-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/umid._100" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umid._100" height="30" width="40" style="float: left; margin-right: 10px;"/>
+  <a href="https://fb.com/ümidqurbanov" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%C3%9Cmid%20Qurbanov-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
-<h1>Skills 🔥</h1>
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mysql,sqlite,html,css,js,jquery,sass,bootstrap,git,python,react,wordpress,nodejs&perline=8" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="CSharp" alt="CSharp" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET" alt=".NET" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="MsSQL" alt="MsSQL" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery" alt="jQuery" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="Sass" alt="Sass" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" style="float: left; margin-right: 10px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" style="float: left; margin-right: 10px;"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=umidgurbanov&show_icons=true&theme=tokyonight&hide=prs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umidgurbanov&theme=tokyonight" width="48%" />
 </div>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umidgurbanov&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff" />
 </div>
+
+---
+
+> 💡 **Əlavə fikir:** Profilinə bir avatar əlavə et və `umidgurbanov` GitHub adını statik kodlara da yaz — əks halda bəzi statlar görünməyə bilər.
+
+---
+
+İstəyirsənsə bu README-ni `.md` faylı kimi birbaşa yüklənə biləcək formatda da göndərə bilərəm. Digər effektlər (GIF arxa plan, 3D badge-lər və s.) əlavə etmək də mümkündür.
+
+İstəyirsənsə `portfolionu` interaktiv bir web səhifəyə də çevirə bilərik. Davam edək?
