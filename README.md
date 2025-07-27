@@ -22,13 +22,13 @@
 ### 📲 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/umidgurbanov" target="_blank">
+  <a href="[https://linkedin.com/in/umidgurbanov](https://www.linkedin.com/in/%C3%BCmid-qurbanov-322301250/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Umid%20Gurbanov-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/umid._100" target="_blank">
+  <a href="[https://instagram.com/umid._100](https://www.instagram.com/qrbnv._/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40umid._100-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://fb.com/ümidqurbanov" target="_blank">
+  <a href="[https://fb.com/ümidqurbanov](https://www.facebook.com/oligarchy.decpacito)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%C3%9Cmid%20Qurbanov-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
