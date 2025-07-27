@@ -22,7 +22,7 @@
 ### 📲 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/umidgurbanov(https://www.linkedin.com/in/%C3%BCmid-qurbanov-322301250/)" target="_blank">
+  <a href="[https://linkedin.com/in/umidgurbanov](https://www.linkedin.com/in/%C3%BCmid-qurbanov-322301250/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Umid%20Gurbanov-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="[https://instagram.com/umid._100](https://www.instagram.com/qrbnv._/)" target="_blank">
