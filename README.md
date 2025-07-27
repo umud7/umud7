@@ -14,6 +14,7 @@
 
 <h1>Skills 🔥</h1>
 <div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" style="float: left; margin-right: 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="CSharp" alt="CSharp" style="float: left; margin-right: 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET" alt=".NET" style="float: left; margin-right: 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" style="float: left; margin-right: 10px;"/>&nbsp;
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" style="float: left; margin-right: 10px;"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" style="float: left; margin-right: 10px;"/>&nbsp;
 </div>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <div align="center">
   <img src="https://profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
